@@ -9,7 +9,7 @@
 
 if ( ! defined( 'ABSPATH' ) ) exit;
 
-define('WCM_PRODUCT_ID', 456);
+define('WCM_PRODUCT_ID', 206087);
 define('WCM_COMMISSION_RATE', 0.20);
 
 foreach (['roles', 'commissions', 'dashboard', 'ajax', 'cron'] as $file) {
